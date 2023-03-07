@@ -2,7 +2,7 @@
 ### #Prochy20 | #MaxCahill | #ProchyEM
 
 - 🔭 I’m currently working on Kreteni.online project (See organization)
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning NestJS
 - 💬 Ask me about JavaScript/Typescript
 - ⚡ Fun fact: I am hobby coder 😆
 
